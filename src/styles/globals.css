@@ -70,7 +70,6 @@ body {
   animation: slideInRight 0.3s ease-out;
 }
 
-/* Add smooth transition for message status changes */
 .message-status {
   transition: color 0.3s ease;
 }
